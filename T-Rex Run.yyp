@@ -66,7 +66,7 @@
             "Key": "325e52c9-60fe-4d9e-828c-1f4d6195d5ec",
             "Value": {
                 "id": "5a03e7b3-c84c-4647-b9b2-21b3e44744ee",
-                "resourcePath": "sprites\\spr_dino\\spr_dino.yy",
+                "resourcePath": "sprites\\spr_dino_stand\\spr_dino_stand.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -84,6 +84,14 @@
                 "id": "dfac998b-97e7-4424-8b77-e6444cd54641",
                 "resourcePath": "views\\4605e6c2-5248-4ed6-8ec1-2d2338f3ef97.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "52e3e262-bd13-47bc-a41e-0189126cb607",
+            "Value": {
+                "id": "bd07abc2-53d0-4d6b-ba03-5ff73b828a35",
+                "resourcePath": "sprites\\spr_block\\spr_block.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

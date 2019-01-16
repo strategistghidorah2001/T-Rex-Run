@@ -2,7 +2,7 @@
     "id": "325e52c9-60fe-4d9e-828c-1f4d6195d5ec",
     "modelName": "GMSprite",
     "mvc": "1.12",
-    "name": "spr_dino",
+    "name": "spr_dino_stand",
     "For3D": false,
     "HTile": false,
     "VTile": false,
