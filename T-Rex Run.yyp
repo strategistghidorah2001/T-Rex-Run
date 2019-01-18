@@ -151,6 +151,14 @@
             }
         },
         {
+            "Key": "94625a08-d382-4748-bd9d-5985d47222c8",
+            "Value": {
+                "id": "f06e5ba4-f172-497d-9981-ca10e72c98c3",
+                "resourcePath": "objects\\obj_dino\\obj_dino.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "9a7635d4-c6ea-467d-998d-98aeebdd052c",
             "Value": {
                 "id": "f0c52071-ed3e-4d51-b0de-87570db9338f",
