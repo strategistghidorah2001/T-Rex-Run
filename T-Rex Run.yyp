@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "2f1ebd3e-fe83-429d-9c4f-35a1eb86282e",
+            "Value": {
+                "id": "f29d4fe7-8167-4042-941e-f33d32e4b0aa",
+                "resourcePath": "scripts\\scr_ground_check\\scr_ground_check.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "325e52c9-60fe-4d9e-828c-1f4d6195d5ec",
             "Value": {
                 "id": "5a03e7b3-c84c-4647-b9b2-21b3e44744ee",
@@ -232,7 +240,8 @@
         }
     ],
     "script_order": [
-        "df3e746f-8332-414b-8e2f-0ccb9cf3b86e"
+        "df3e746f-8332-414b-8e2f-0ccb9cf3b86e",
+        "2f1ebd3e-fe83-429d-9c4f-35a1eb86282e"
     ],
     "tutorial": ""
 }
