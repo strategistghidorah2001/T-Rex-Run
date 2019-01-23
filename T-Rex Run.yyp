@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "5ff8d619-3295-4ff5-be26-57ba3c550c52",
+            "Value": {
+                "id": "efb92629-47eb-4b3b-8a91-f0645a912944",
+                "resourcePath": "sprites\\spr_pterodactyl\\spr_pterodactyl.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6eafe862-5384-46e9-9fd1-233b0ecd2d8b",
             "Value": {
                 "id": "ba4d4f94-4dce-4d10-a5d6-5525303a7e70",
