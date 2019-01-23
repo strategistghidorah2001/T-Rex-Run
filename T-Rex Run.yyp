@@ -247,6 +247,14 @@
             }
         },
         {
+            "Key": "ea4bb29d-7833-4dad-8742-54e94185620f",
+            "Value": {
+                "id": "1e960de1-0717-4690-9752-c892f6c53304",
+                "resourcePath": "sprites\\spr_cactus_small\\spr_cactus_small.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "fb521a27-81e0-4963-96c0-5ab688eeaec9",
             "Value": {
                 "id": "4a6bef43-dbe9-4d35-ad50-7d57adcdcfc0",
