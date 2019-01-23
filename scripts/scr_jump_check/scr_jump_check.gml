@@ -2,7 +2,7 @@ if (jumping)
 {
 	if (vspd < 0)
 	{
-		jumping = true:
+		jumping = true;
 	}
 	else
 	{
