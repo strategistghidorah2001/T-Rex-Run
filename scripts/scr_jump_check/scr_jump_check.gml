@@ -6,6 +6,7 @@ if (jumping)
 	}
 	else
 	{
-		jump
+		jumping = false;
+		falling = true;
 	}
 }
